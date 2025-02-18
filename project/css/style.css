@@ -2,7 +2,7 @@
 .body1 {
     margin: 100;
     height: 100vh;
-    background-image: url('../project/pictures/gwyne.jpg');
+    background-image: url('../pictures/gwyne.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -11,7 +11,7 @@
 .body2 {
     margin: 100;
     height: 100vh;
-    background-image: url('../project/pictures/gwyne2.jpg');
+    background-image: url('../pictures/gwyne2.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -20,7 +20,7 @@
 .body3 {
     margin: 100;
     height: 100vh;
-    background-image: url('../project/pictures/gwyne3.jpg');
+    background-image: url('../pictures/gwyne3.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -29,7 +29,7 @@
 .body4 {
     margin: 100;
     height: 100vh;
-    background-image: url('../project/pictures/gwyne4.jpg');
+    background-image: url('../pictures/gwyne4.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100% 100%;
