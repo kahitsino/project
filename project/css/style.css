@@ -1,0 +1,66 @@
+/* Global Design */
+.body1 {
+    margin: 100;
+    height: 100vh;
+    background-image: url('/img/gwyne.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.body2 {
+    margin: 100;
+    height: 100vh;
+    background-image: url('/img/gwyne2.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.body3 {
+    margin: 100;
+    height: 100vh;
+    background-image: url('/img/gwyne3.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.body4 {
+    margin: 100;
+    height: 100vh;
+    background-image: url('/img/gwyne4.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+table {
+    border-collapse: collapse;
+    border-color: black;
+}
+
+.button {
+    border: 1px transparent;
+    background-color: transparent;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+/* This is for desktop design */
+@media only screen and (min-width: 700px) {
+    .gwyne {
+        width: 185px;
+    }
+    table {
+        font-size: 25px;
+    }
+    
+}
+
+/* This is for mobile design */
+@media only screen and (max-width: 700px) {
+    .gwyne {
+        width: 150px;
+    }
+}
