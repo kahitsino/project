@@ -63,4 +63,7 @@ table {
     .gwyne {
         width: 150px;
     }
+    table {
+        font-size: 50px;
+    }
 }
