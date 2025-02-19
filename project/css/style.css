@@ -53,7 +53,7 @@ table {
         width: 185px;
     }
     table {
-        font-size: 50px;
+        font-size: 30px;
     }
     
 }
@@ -62,8 +62,5 @@ table {
 @media only screen and (max-width: 700px) {
     .gwyne {
         width: 150px;
-    }
-    table {
-        font-size: 50px;
     }
 }
