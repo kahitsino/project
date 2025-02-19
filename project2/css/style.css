@@ -1,0 +1,62 @@
+/* Global Design */
+.body1 {
+    background-image: url('../img/lyn1.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.body2 {
+    background-image: url('../img/lyn2.png');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.body3 {
+    background-image: url('../img/lyn3.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.body4 {
+    background-image: url('../img/lyn4.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.body5 {
+    background-image: url('../img/lyn5.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.body6 {
+    background-image: url('../img/lyn6.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+
+.button1 {
+    background-color: transparent;
+    border: transparent;
+    padding: 10px 15px;
+}
+table {
+    border-collapse: collapse;
+}
+
+/* Mobile Design */
+@media only screen and (max-width: 700px) {
+
+}
+
+/* Desktop Design */
+@media only screen and (min-width: 700px) {
+    table {
+        font-size: 25px;
+    }
+    .lyn {
+        width: 185px;
+    }
+}
