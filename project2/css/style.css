@@ -40,11 +40,17 @@
 .button1 {
     background-color: transparent;
     border: transparent;
-    padding: 10px 15px;
+    padding: 10px 20px;
     cursor: pointer;
+    border-radius: 5px;
 }
+.button1:hover {
+    background-color: #97969662;
+}
+
 table {
     border-collapse: collapse;
+    border-color: black;
 }
 
 /* Mobile Design */

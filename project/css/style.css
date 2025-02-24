@@ -43,8 +43,12 @@ table {
 .button {
     border: 1px transparent;
     background-color: transparent;
-    padding: 10px 15px;
+    padding: 10px 20px;
     cursor: pointer;
+    border-radius: 5px;
+}
+.button:hover {
+    background-color: #97969662;
 }
 
 
