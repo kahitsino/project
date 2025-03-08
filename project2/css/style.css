@@ -61,7 +61,7 @@ table {
 /* Desktop Design */
 @media only screen and (min-width: 700px) {
     table {
-        font-size: 25px;
+        font-size: 30px;
     }
     .lyn {
         width: 185px;
